@@ -1,2 +1,1 @@
-# tarefas-do-curso-da-dio.me---java
-tarefas do curso da dio.me - java
+Exercícios e tarefas de Python e R. 
